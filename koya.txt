@@ -1,5 +1,8 @@
 koya
-text
-test
+tera
 
 terakoya
+
+テスト追加
+tera
+koya
